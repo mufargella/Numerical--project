@@ -1,0 +1,2 @@
+# Numerical--project
+Numerical Methods Engineer (Java) Developed high-performance algorithms for:  Equation Solving (Aitken’s, Newton-Raphson)  Linear Systems (Gauss-Seidel/Jacobi)  Calculus (Romberg Integration, Gauss-Legendre Quadrature, ODE Solvers)  Optimization (Power Law Regression)  Key Features: ✓ Adaptive O(h²ⁿ) convergence algorithms ✓ 4th-order Runge-Kutta for precision ODE solutions ✓ Richardson extrapolation for derivative optimization  Tech: Java, Numerical Analysis, Algorithm Design
